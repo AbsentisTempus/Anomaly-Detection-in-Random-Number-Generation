@@ -1,8 +1,5 @@
 ### Research Proposal Overview: Anomaly Detection in Random Number Generation
 
-#### Title
-**Advanced Anomaly Detection in a Stream of Single-Digit Random Numbers**
-
 #### Abstract
 This proposal outlines the development of a device and accompanying software algorithms designed to generate a continuous stream of random numbers (ranging from 0-9) and analyze these numbers for anomalies. This research aims to establish a robust method for detecting statistical deviations in a seemingly random sequence, which has broad applications in fields like cryptography, data analysis, and computational simulations.
 
